@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ec30735c75b910206a0d124ed995731cf6f61a40",
+    "name": "HK Core",
+    "selectedTokenSets": {
+      "Palette": "enabled",
+      "Desktop": "enabled",
+      "Light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

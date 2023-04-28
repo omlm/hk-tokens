@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "Palette",
+    "Desktop",
+    "Mobile",
+    "Light",
+    "Dark"
+  ]
+}

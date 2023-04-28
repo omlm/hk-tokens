@@ -1,0 +1,272 @@
+{
+  "Text": {
+    "Standard": {
+      "value": "{01-Neutral.100}",
+      "type": "color",
+      "description": "Use for primary text, such as body copy, sentence case headers, and buttons."
+    },
+    "Secondary": {
+      "value": "{01-Neutral.200}",
+      "type": "color"
+    },
+    "Subtle": {
+      "value": "{01-Neutral.400}",
+      "type": "color",
+      "description": "Use for secondary text, such as navigation, subtle button links, input field labels, and all caps subheadings."
+    },
+    "Mute": {
+      "value": "{01-Neutral.700}",
+      "type": "color",
+      "description": "Use for tertiary text, such as meta-data, breadcrumbs, input field placeholder and helper text."
+    },
+    "Inverse": {
+      "value": "{01-Neutral.1000}",
+      "type": "color",
+      "description": "Use for text on bold backgrounds."
+    },
+    "Link": {
+      "value": "{01-Neutral.100}",
+      "type": "color"
+    },
+    "Accent": {
+      "value": "{02-Blue.300}",
+      "type": "color"
+    },
+    "Accent hover": {
+      "value": "{02-Blue.200}",
+      "type": "color"
+    },
+    "Critical": {
+      "value": "{03-Red.300}",
+      "type": "color",
+      "description": "Use for critical text, such as input field error messaging."
+    },
+    "Success": {
+      "value": "{04-Green.200}",
+      "type": "color"
+    },
+    "Info": {
+      "value": "{02-Blue.300}",
+      "type": "color"
+    },
+    "Warning": {
+      "value": "{05-Yellow.100}",
+      "type": "color"
+    },
+    "Warning strong": {
+      "value": "{05-Yellow.100}",
+      "type": "color"
+    }
+  },
+  "Icon": {
+    "Standard": {
+      "value": "{Text.Standard}",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "{Text.Secondary}",
+      "type": "color"
+    },
+    "Subtle": {
+      "value": "{Text.Subtle}",
+      "type": "color"
+    },
+    "Mute": {
+      "value": "{Text.Mute}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Text.Inverse}",
+      "type": "color"
+    },
+    "Link": {
+      "value": "{Text.Link}",
+      "type": "color"
+    },
+    "Accent": {
+      "value": "{Text.Accent}",
+      "type": "color"
+    },
+    "Critical": {
+      "value": "{Text.Critical}",
+      "type": "color"
+    },
+    "Success": {
+      "value": "{Text.Success}",
+      "type": "color"
+    },
+    "Info": {
+      "value": "{Text.Info}",
+      "type": "color"
+    },
+    "Warning": {
+      "value": "{Text.Warning}",
+      "type": "color"
+    }
+  },
+  "Border": {
+    "Standard": {
+      "value": "{01-Neutral.300}",
+      "type": "color"
+    },
+    "Subtle": {
+      "value": "{01-Neutral.800}",
+      "type": "color"
+    },
+    "Strong": {
+      "value": "{01-Neutral.100}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{01-Neutral.900}",
+      "type": "color"
+    },
+    "Accent": {
+      "value": "{02-Blue.300}",
+      "type": "color"
+    },
+    "Accent hover": {
+      "value": "{02-Blue.200}",
+      "type": "color"
+    },
+    "Critical": {
+      "value": "{03-Red.300}",
+      "type": "color"
+    },
+    "Success": {
+      "value": "{04-Green.600}",
+      "type": "color"
+    },
+    "Success hover": {
+      "value": "{04-Green.400}",
+      "type": "color"
+    },
+    "Info": {
+      "value": "#75aaf0",
+      "type": "color"
+    },
+    "Warning": {
+      "value": "{05-Yellow.600}",
+      "type": "color"
+    }
+  },
+  "Background": {
+    "Neutral": {
+      "value": "{06-Brown.900}",
+      "type": "color"
+    },
+    "Neutral hover": {
+      "value": "{06-Brown.800}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{01-Neutral.100}",
+      "type": "color"
+    },
+    "Focus": {
+      "value": "{02-Blue.900}",
+      "type": "color"
+    },
+    "Focus hover": {
+      "value": "{02-Blue.800}",
+      "type": "color"
+    },
+    "Accent": {
+      "value": "{02-Blue.300}",
+      "type": "color"
+    },
+    "Accent hover": {
+      "value": "{02-Blue.200}",
+      "type": "color"
+    },
+    "Critical": {
+      "value": "{03-Red.900}",
+      "type": "color"
+    },
+    "Critical hover": {
+      "value": "{03-Red.800}",
+      "type": "color"
+    },
+    "Critical strong": {
+      "value": "{03-Red.300}",
+      "type": "color"
+    },
+    "Critical strong hover": {
+      "value": "{03-Red.200}",
+      "type": "color"
+    },
+    "Success": {
+      "value": "{04-Green.900}",
+      "type": "color"
+    },
+    "Success hover": {
+      "value": "{04-Green.800}",
+      "type": "color"
+    },
+    "Success strong": {
+      "value": "{04-Green.200}",
+      "type": "color"
+    },
+    "Success strong hover": {
+      "value": "{04-Green.100}",
+      "type": "color"
+    },
+    "Info": {
+      "value": "{02-Blue.900}",
+      "type": "color"
+    },
+    "Info hover": {
+      "value": "{02-Blue.800}",
+      "type": "color"
+    },
+    "Info strong": {
+      "value": "{02-Blue.300}",
+      "type": "color"
+    },
+    "Info strong hover": {
+      "value": "{02-Blue.200}",
+      "type": "color"
+    },
+    "Warning": {
+      "value": "{05-Yellow.900}",
+      "type": "color"
+    },
+    "Warning hover": {
+      "value": "{05-Yellow.800}",
+      "type": "color"
+    },
+    "Warning strong": {
+      "value": "{05-Yellow.600}",
+      "type": "color"
+    },
+    "Warning strong hover": {
+      "value": "{05-Yellow.500}",
+      "type": "color"
+    },
+    "Canvas": {
+      "value": "{01-Neutral.1000}",
+      "type": "color"
+    }
+  },
+  "Focus": {
+    "value": [
+      {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "3",
+        "color": "{Background.Canvas}",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "6",
+        "color": "#ADC6EB",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  }
+}
