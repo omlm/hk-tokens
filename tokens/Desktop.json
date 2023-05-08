@@ -301,5 +301,9 @@
       },
       "type": "typography"
     }
+  },
+  "section-spaceing": {
+    "value": "{space-base}*4",
+    "type": "spacing"
   }
 }
